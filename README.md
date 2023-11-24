@@ -8,5 +8,5 @@ If using a local platform such as VS Code please do the following to run the pro
 
 In your local terminal/console
 
-1) type --> npm install        to install node modules
+1) type --> npm install        to install dependencies
 2) type --> npm run dev        and follow the terminal instructions to run the app
