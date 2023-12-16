@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-Game-Finished
-Dynamic/Interactive Tic Tac Toe web application 
+Dynamic/Interactive Tic Tac Toe web application for practice of the use of **React useState()** functionality.
 
 With the guidance of Maximilian Schwarzmuller
 
